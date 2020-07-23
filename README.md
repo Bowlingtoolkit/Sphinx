@@ -1,4 +1,4 @@
-<p style="text-align: center;">Sphinx</p>
+<h1 style="text-align: center;">Sphinx</h1>
   
 a too simple c# package to make http requests in one line ;)
 
