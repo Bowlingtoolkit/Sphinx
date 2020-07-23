@@ -1,4 +1,4 @@
-<center>Sphinx</center>
+# Sphinx
   
 a too simple c# package to make http requests in one line ;)
 
