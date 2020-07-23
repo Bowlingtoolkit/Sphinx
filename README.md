@@ -1,4 +1,4 @@
-# Sphinx
+<h1 style="text-align: center;">Sphinx</h1>
 a too simple c# package to make http requests in one line ;)
 
 
@@ -12,12 +12,12 @@ here some examples
 ```
 - Post Request (JSON) Example:
 ```cs
-    WebHeaderCollection collection = new WebHeaderCollection
-    {
-        { "authorization", "authorization token" }
-    };
-    string result = Request.Post("https://github.com/", Converter.JSON(new { content: "hello Sphinx :)" }), ContentType.json, collection).Body;
-    Console.WriteLine(result);
+  WebHeaderCollection collection = new WebHeaderCollection
+  {
+      { "authorization", "authorization token" }
+  };
+  string result = Request.Post("https://github.com/", Converter.JSON(new { content: "hello Sphinx :)" }), ContentType.json, collection).Body;
+  Console.WriteLine(result);
 ```
 
 # how to install ? 
