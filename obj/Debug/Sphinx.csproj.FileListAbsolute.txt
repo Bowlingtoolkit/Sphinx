@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Axios\Axios\bin\Debug\Sphinx.dll
+C:\Users\USER\source\repos\Axios\Axios\bin\Debug\Sphinx.pdb
+C:\Users\USER\source\repos\Axios\Axios\obj\Debug\Sphinx.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Axios\Axios\obj\Debug\Sphinx.dll
+C:\Users\USER\source\repos\Axios\Axios\obj\Debug\Sphinx.pdb
+C:\Users\USER\source\repos\Sphinx\Sphinx\bin\Debug\Sphinx.dll
+C:\Users\USER\source\repos\Sphinx\Sphinx\bin\Debug\Sphinx.pdb
+C:\Users\USER\source\repos\Sphinx\Sphinx\obj\Debug\Sphinx.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Sphinx\Sphinx\obj\Debug\Sphinx.dll
+C:\Users\USER\source\repos\Sphinx\Sphinx\obj\Debug\Sphinx.pdb
