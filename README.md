@@ -1,6 +1,7 @@
 # Sphinx
   
 a too simple c# package to make http requests in one line ;)
+<br>
 <a href="https://www.nuget.org/packages/Sphinx/1.0.0" rel="Nuget">![Nuget](https://badgen.net/nuget/v/Sphinx/latest)</a>
 
 # How to use ?
