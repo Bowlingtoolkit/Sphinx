@@ -18,7 +18,7 @@ here some examples
   {
       { "authorization", "authorization token" }
   };
-  string result = Request.Post("https://github.com/", Converter.JSON(new { content: "hello Sphinx :)" }), ContentType.json, collection).Body;
+  string result = Request.Post("https://github.com/", Converter.JSON(new { content = "hello Sphinx :)" }), ContentType.json, collection).Body;
   Console.WriteLine(result);
 ```
 
